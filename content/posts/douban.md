@@ -3,8 +3,7 @@ title: 豆瓣年度总结
 date: 2019/12/30
 slug: douban-new-year
 published: true
-tags:
-- Life
+tags: ['Life']
 canonical_url: false
 ---
 

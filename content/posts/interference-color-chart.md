@@ -3,8 +3,7 @@ title: 干涉光谱分享归档
 date: 2020-03-29
 slug: interference-color-chart
 published: true
-tags:
-- Works
+tags: ['Works']
 canonical_url: false
 ---
 

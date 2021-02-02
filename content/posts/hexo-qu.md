@@ -4,9 +4,7 @@ date: 2019-09-30
 slug: hexo-about
 published: true
 description: 深入理解 Hexo
-tags:
-- hexo
-- Dev
+tags: ['Hexo','Dev']
 canonical_url: false
 ---
 

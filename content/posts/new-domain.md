@@ -3,8 +3,7 @@ title: 新域名，yes！
 date: 2020/03/05 20:20
 slug: new-domain
 published: true
-tags:
-- Life
+tags: ['Life']
 canonical_url: false
 ---
 

@@ -3,8 +3,7 @@ title: 近况 21/9
 date: 2019/9/20 23:10:19
 slug: recently-life
 published: true
-tags:
-- Life
+tags: ['Life']
 canonical_url: false
 ---
 

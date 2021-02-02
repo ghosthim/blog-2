@@ -3,8 +3,7 @@ title: 浅谈民谣唱法（流行演唱与歌曲写作作业）
 date: 2019-11-27
 slug: music-course-work
 published: true
-tags:
-- Works
+tags: ['Works']
 canonical_url: false
 ---
 

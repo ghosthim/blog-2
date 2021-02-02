@@ -4,8 +4,7 @@ date: 2019-11-8
 slug: about-phone
 published: true
 description: 手机到底对我们有多大的影响
-tags:
-- Blog
+tags: ['Life']
 canonical_url: false
 ---
 > 现在是晚上 11 点，顶着睡意想写一点。
