@@ -1,9 +1,12 @@
 ---
-layout: post
+published: true
 title: 清明假期记录
 date: 2019-04-04 23:58:05
-categories: Blog
-keywords: 2018, BLOG
+slug: qingming-festival
+tags:
+- Blog
+- 2018
+canonical_url: false
 ---
 > 就这样清明假期就悄然开始了，从前些天起就跟我这俩dd室友讨论去哪玩，北京、天津、河南、青岛都想过，由于时间跟开支原因我们最终还是定下了来爬泰山（去年高考完跟同学爬过一次的。
 

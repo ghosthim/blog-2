@@ -1,9 +1,12 @@
 ---
-layout: post
 title: 再见 CloudXNS
-date: 2019-07-08 19:21:52
-categories: Blog
-keywords: 2019, BLOG
+date: 2021-02-02 17:21:59
+slug: bye-cloudxns
+published: true
+tags:
+- 2019
+- BLOG
+canonical_url: false
 ---
 
 > 为贯彻国家网络安全政策法规，加强监管力度，更好的服务于 VIP 客户，我司将于2019年7月16日0时起，停止免费使用我司 CloudXNS 客户的服务，有意向使用 VIP 服务的用户，请尽快与我司联系！

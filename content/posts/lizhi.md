@@ -1,8 +1,11 @@
 ---
 title: 浅谈民谣唱法（流行演唱与歌曲写作作业）
-layout: post
 date: 2019-11-27
-categories: project
+slug: music-course-work
+published: true
+tags:
+- Works
+canonical_url: false
 ---
 
 > “飞机飞过天空,天空之城，落雨下的黄昏的我们，此刻我在异乡的夜里，感觉着你忽明忽暗”

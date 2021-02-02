@@ -1,9 +1,11 @@
-
 ---
 title: 豆瓣年度总结
 date: 2019/12/30
-layout: post
-categories: Blog
+slug: douban-new-year
+published: true
+tags:
+- Blog
+canonical_url: false
 ---
 
 > 豆瓣年度总结

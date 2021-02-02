@@ -1,9 +1,9 @@
 ---
-
 title: 中文文案排版指北（简体中文版）
 date: 2020/02/01
-layout: post
-
+slug: type-help
+published: true
+canonical_url: false
 ---
 
 > 此文案排版指北转载自https://sparanoid.com/note/chinese-copywriting-guidelines/

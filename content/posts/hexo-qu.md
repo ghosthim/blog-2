@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Hexo list
-date: 2019-09-30 
-categories: Blog
+date: 2019-09-30
+slug: hexo-about
+published: true
 description: 深入理解 Hexo
-keywords: hexo, BLOG
+tags:
+- hexo
+- BLOG
+canonical_url: false
 ---
 
 $$

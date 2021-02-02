@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Hello world,Hello Blog.
 date: 2019-01-26
-categories: Blog
-keywords: 2018, BLOG
+slug: hi-my-new-blog
+published: true
+tags:
+- Blog
+canonical_url: false
 ---
 **Update 2019/03/27:成功申请到 GITHUB  [Student Developer Pack](https://education.github.com/pack) ，把博客主题从 Hux Blog 更改为 mzlogin 样式，并更换域名到 youngje.me，开启了新的博客之旅。**
 

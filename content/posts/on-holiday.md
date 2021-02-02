@@ -1,12 +1,9 @@
-
 ---
-
-layout: post
-
 title: 假期开启！
-
 date: 2020-06-29
-
+slug: holiday-turn-on
+published: true
+canonical_url: false
 ---
 
 今天开始我就正式开启了“寒假”的最后一部分—暑假，过几天会把之前想写但没时间写的几篇文章补上来。其实之前自己已经想好写些啥了，但是由于我懒嘛，所以就就就给忘了。

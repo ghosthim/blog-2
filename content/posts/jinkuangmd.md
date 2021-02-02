@@ -1,9 +1,11 @@
 ---
-layout: post
 title: 近况 21/9
-date: 2019/9/20 23:10:19 
-categories: Blog
-keywords: 2019, BLOG
+date: 2019/9/20 23:10:19
+slug: recently-life
+published: true
+tags:
+- Blog
+canonical_url: false
 ---
 
 
