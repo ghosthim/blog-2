@@ -4,7 +4,7 @@ date: 2019/12/30
 slug: douban-new-year
 published: true
 tags:
-- Blog
+- Life
 canonical_url: false
 ---
 

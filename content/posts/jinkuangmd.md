@@ -4,7 +4,7 @@ date: 2019/9/20 23:10:19
 slug: recently-life
 published: true
 tags:
-- Blog
+- Life
 canonical_url: false
 ---
 

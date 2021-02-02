@@ -6,7 +6,7 @@ published: true
 description: 深入理解 Hexo
 tags:
 - hexo
-- BLOG
+- Dev
 canonical_url: false
 ---
 

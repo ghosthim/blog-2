@@ -4,7 +4,7 @@ date: 2020/03/05 20:20
 slug: new-domain
 published: true
 tags:
-- Blog
+- Life
 canonical_url: false
 ---
 
