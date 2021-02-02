@@ -1,6 +1,6 @@
 ---
 title: 新域名，yes！
-date: 2020/03/05
+date: 2020-03-05
 slug: new-domain
 published: true
 tags: ['Life']

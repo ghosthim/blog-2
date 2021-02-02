@@ -1,6 +1,6 @@
 ---
 title: Notion 真的可以代替印象笔记
-date: 2020/05/30
+date: 2020-05-30
 slug: notion-yes
 published: true
 canonical_url: false

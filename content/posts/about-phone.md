@@ -1,6 +1,6 @@
 ---
 title: 关于手机的一些思考
-date: 2019-11-8
+date: 2019-11-08
 slug: about-phone
 published: true
 description: 手机到底对我们有多大的影响
