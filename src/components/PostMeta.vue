@@ -5,8 +5,7 @@
       {{ post.cjkWordCount }} words.
       <strong
         >{{ post.cjkReadTime }} min read.
-        <font-awesome :icon="['fa', 'spinner']" pulse v-if="loading" />
-        <span v-else>{{ hitCount }}</span> views.</strong
+		</strong
       >
     </template>
   </div>
