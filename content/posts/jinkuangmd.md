@@ -1,6 +1,6 @@
 ---
 title: 近况 21/9
-date: 2019/9/20 23:10:19
+date: 2019/9/20
 slug: recently-life
 published: true
 tags: ['Life']

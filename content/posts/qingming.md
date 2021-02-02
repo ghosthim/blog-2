@@ -1,7 +1,7 @@
 ---
 published: true
 title: 清明假期记录
-date: 2019-04-04 23:58:05
+date: 2019-04-04
 slug: qingming-festival
 tags: ['Life','2018']
 canonical_url: false

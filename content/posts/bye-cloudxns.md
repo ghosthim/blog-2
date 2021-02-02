@@ -1,6 +1,6 @@
 ---
 title: 再见 CloudXNS
-date: 2021-02-02 17:21:59
+date: 2021-02-02
 slug: bye-cloudxns
 published: true
 tags: ['2019','Life']
