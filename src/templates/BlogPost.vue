@@ -51,9 +51,6 @@
         >
       </div>
     </div>
-	<div class="post-comments">
-	    <div id="disqus_thread" />	
-    </div>
     <transition name="fade">
       <div
         id="back-to-top"
@@ -72,7 +69,6 @@
 import PostMeta from '~/components/PostMeta'
 import PostTags from '~/components/PostTags'
 import Author from '~/components/Author.vue'
-import DisqusJS from 'disqusjs'
 
 export default {
   components: {
@@ -122,19 +118,6 @@ export default {
       (today - publishTime) / (1000 * 60 * 60 * 24)
     )
     this.publishedDays = publishedDays
-
-    // Initialize post comment by DisqusJS
-    if (process.env.NODE_ENV === 'production') {
-      const disqusjs = new DisqusJS({
-        shortname: 'spencerwoo',
-        siteName: "Spencer's Blog",
-        identifier: this.$page.post.path,
-        apikey:
-          'F6hHeFWtfmWW5n4RVf4hjgazRj8y0ERfQdeQPIGKr79yajw6glnmTqrgYHTC8XaS',
-        admin: 'spencerwoo',
-        adminLabel: 'Admin',
-      })
-    }
   },
 }
 </script>
