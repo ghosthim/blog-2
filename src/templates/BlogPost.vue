@@ -51,11 +51,6 @@
         >
       </div>
     </div>
-
-    <div class="post-comments">
-      <div id="disqus_thread" />
-    </div>
-
     <transition name="fade">
       <div
         id="back-to-top"
