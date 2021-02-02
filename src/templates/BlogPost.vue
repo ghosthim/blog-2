@@ -51,6 +51,7 @@
         >
       </div>
     </div>
+	<div class="post-comments">
     <transition name="fade">
       <div
         id="back-to-top"
