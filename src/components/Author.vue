@@ -15,12 +15,12 @@
 
     <p class="author__intro">
       <!-- eslint-disable-next-line -->
-      阿巴阿巴 o((>ω< ))o
+      编故事才讲逻辑，现实不用。
     </p>
 
     <p class="author__links">
       <g-link
-        href="//spencerwoo.com"
+        href="//api2u.me"
         target="_blank"
         v-tooltip="{ content: '🚀 Portfolio' }"
         ><font-awesome :icon="['fas', 'id-badge']"
@@ -44,31 +44,24 @@
         ><font-awesome :icon="['fas', 'comment-dots']"/></g-link
       >/
       <a
-        href="//twitter.com/realSpencerWoo"
-        target="_blank"
-        style="color: #1da1f2;"
-        v-tooltip="{ content: '🔗 @realSpencerWoo' }"
-        ><font-awesome :icon="['fab', 'twitter']"
-      /></a>
-      <a
-        href="//weibo.com/spencerwoo"
+        href="//weibo.com/api2u"
         target="_blank"
         style="color: #E00;"
-        v-tooltip="{ content: '🔗 @spencerwoo' }"
+        v-tooltip="{ content: '🔗 @Api2u' }"
         ><font-awesome :icon="['fab', 'weibo']"
       /></a>
       <a
-        href="//t.me/realSpencerWoo"
+        href="//t.me/api2u"
         target="_blank"
         style="color: #179cde;"
-        v-tooltip="{ content: '🔗 @realSpencerWoo' }"
+        v-tooltip="{ content: '🔗 @Api2u' }"
         ><font-awesome :icon="['fab', 'telegram']"
       /></a>
       <a
-        href="//github.com/spencerwooo"
+        href="//github.com/ghosthim"
         target="_blank"
         style="color: var(--title-color);"
-        v-tooltip="{ content: '🔗 @spencerwooo' }"
+        v-tooltip="{ content: '🔗 @Api2u' }"
         ><font-awesome :icon="['fab', 'github']"
       /></a>
     </p>
